@@ -8,7 +8,7 @@ const bottlesContainer = document.querySelector("#liens");
 function createBottleCard(bottle) {
   return `
     <div class="bottle-card">
-      <h2>${bottle}</h2>
+      <h2>${bottle.name}</h2>
     </div>
   `;
 }

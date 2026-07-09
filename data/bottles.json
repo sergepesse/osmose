@@ -2,29 +2,33 @@
   {
     "id": 1,
     "alias": "bouteille-1",
-    "name": "Bouteille 1",
-    "description": "Description de la bouteille 1",
-    "image": "assets/images/bouteille-1.jpg"
+    "name": "RELAX",
+    "description": "Baies de Goji & Hibiscus : Énergie durable et progressive, améliore la résistance au stress",
+    "prix": "2.45 CHF",
+    "image": "assets/img/Relax.jpg"
   },
   {
     "id": 2,
     "alias": "bouteille-2",
-    "name": "Bouteille 2",
-    "description": "Description de la bouteille 2",
-    "image": "assets/images/bouteille-2.jpg"
+    "name": "TONIC",
+    "description": "Kumquat & Gingembre : Soutien énergétique en cas de fatigue passagère, effet tonifiant et revitalisant, effet anti-inflammatoire et booste l’immunité",
+    "prix": "2.45 CHF",
+    "image": "assets/img/Tonic.jpg"
   },
   {
     "id": 3,
     "alias": "bouteille-3",
-    "name": "Bouteille 3",
-    "description": "Description de la bouteille 3",
-    "image": "assets/images/bouteille-3.jpg"
+    "name": "FOCUS",
+    "description": "Abricots & Thé vert : Énergie durable et progressive, améliore la concentration et la mémorisation",
+    "prix": "2.45 CHF",
+    "image": "assets/img/Focus.jpg"
   },
   {
     "id": 4,
     "alias": "bouteille-4",
-    "name": "Bouteille 4",
-    "description": "Description de la bouteille 4",
-    "image": "assets/images/bouteille-4.jpg"
+    "name": "SPORT",
+    "description": "Électrolytes & Acides aminés : Énergie durable et progressive, améliore les performances sportives, soutient la récupération musculaire, accroît l'absorption de l’eau dans l’organisme",
+    "prix": "2.45 CHF",
+    "image": "assets/img/Sport.jpg"
   }
 ]
