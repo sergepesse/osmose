@@ -21,21 +21,12 @@
 /* Contenu */
 
     .titre {
-        padding-left: 80px;
         padding-top: 40px;
-        padding-bottom: 25px;
     }
 
     p {
-        padding-left: 80px;
+        padding-top: 25px;
         padding-bottom: 20px;
-    }
-
-    .ensemble {
-        float: right;
-        padding-right: 80px;
-        padding-left: 80px;
-        width: 900px;
     }
 
 /* /Contenu */
