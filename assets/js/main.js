@@ -1,8 +1,5 @@
 import { getBottles } from "./data.js";
 
-// Récupérer le div avec un id
-// https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-
 const bottlesContainer = document.querySelector("#liens");
 
 function createBottleCard(bottle) {
