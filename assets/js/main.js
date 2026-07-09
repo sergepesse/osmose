@@ -9,6 +9,7 @@ function createBottleCard(bottle) {
   return `
     <div class="bottle-card">
       <h2>${bottle.name}</h2>
+      <img src="${bottle.image}" />
     </div>
   `;
 }
