@@ -1,7 +1,7 @@
 export async function getBottles() {
   // Doc: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
 
-  const url = "osmose/data/bottles.json";
+  const url = "./osmose/data/bottles.json";
     try {
       const response = await fetch(url);
       if (!response.ok) {
