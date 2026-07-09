@@ -3,5 +3,5 @@ export async function getBottles() {
 
   const test = "Hello World";
 
-  return test;
+  return [test];
 }
