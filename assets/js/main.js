@@ -6,7 +6,7 @@ function createBottleCard(bottle) {
   return `
     <div class="bottle-card">
       <h2>${bottle.name}</h2>
-      <a href="boissons.html"><img src="${bottle.image}" class="w-100" /></a>
+      <a href="boissons.html?id=${bottle.id}"><img src="${bottle.image}" class="w-100" /></a>
     </div>
   `;
 }
