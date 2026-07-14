@@ -3,8 +3,8 @@
     "id": 1,
     "alias": "bouteille-1",
     "name": "RELAX",
-    "description": "Baies de Goji & Hibiscus : Énergie durable et progressive, améliore la résistance au stress",
-    "prix": "2.45 CHF",
+    "description": "Baies de Goji & Hibiscus : Énergie durable et progressive, améliore la résistance au stress.",
+    "prix": "Prix : 2.45 CHF",
     "pub": "assets/img/Relax-Pub.png",
     "image": "assets/img/Relax.png"
   },
@@ -12,8 +12,8 @@
     "id": 2,
     "alias": "bouteille-2",
     "name": "TONIC",
-    "description": "Kumquat & Gingembre : Soutien énergétique en cas de fatigue passagère, effet tonifiant et revitalisant, effet anti-inflammatoire et booste l’immunité",
-    "prix": "2.45 CHF",
+    "description": "Kumquat & Gingembre : Soutien énergétique en cas de fatigue passagère, effet tonifiant et revitalisant, effet anti-inflammatoire et booste l’immunité.",
+    "prix": "Prix : 2.45 CHF",
     "pub": "assets/img/Tonic-Pub.png",
     "image": "assets/img/Tonic.png"
   },
@@ -21,8 +21,8 @@
     "id": 3,
     "alias": "bouteille-3",
     "name": "FOCUS",
-    "description": "Abricots & Thé vert : Énergie durable et progressive, améliore la concentration et la mémorisation",
-    "prix": "2.45 CHF",
+    "description": "Abricots & Thé vert : Énergie durable et progressive, améliore la concentration et la mémorisation.",
+    "prix": "Prix : 2.45 CHF",
     "pub": "assets/img/Focus-Pub.png",
     "image" : "assets/img/Focus.png"
   },
@@ -30,8 +30,8 @@
     "id": 4,
     "alias": "bouteille-4",
     "name": "SPORT",
-    "description": "Électrolytes & Acides aminés : Énergie durable et progressive, améliore les performances sportives, soutient la récupération musculaire, accroît l'absorption de l’eau dans l’organisme",
-    "prix": "2.45 CHF",
+    "description": "Électrolytes & Acides aminés : Énergie durable et progressive, améliore les performances sportives, soutient la récupération musculaire, accroît l'absorption de l’eau dans l’organisme.",
+    "prix": "Prix : 2.45 CHF",
     "pub": "assets/img/Sport-Pub.png",
     "image" : "assets/img/Sport.png"
   }

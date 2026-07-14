@@ -22,6 +22,7 @@ function createBottleDetail(bottle) {
   return `
     <div class="col-12 col-md-6">
           <h2>${bottle.name}</h2>
+          <br/>
           <p>${bottle.description}</p>
           <p>${bottle.prix}</p>
     </div>
