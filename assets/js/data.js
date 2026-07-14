@@ -22,6 +22,8 @@ export async function getBottleById(id) {
     }
 
     const result = await response.json();
+    const bottle = result.find((item) => item.id == id)
+    return bottle
   } catch (error) {
     console.error(error.message);
   }
