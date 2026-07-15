@@ -20,13 +20,13 @@ async function displayBottle() {
 
 function createBottleDetail(bottle) {
   return `
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-4">
           <h2>${bottle.name}</h2>
           <br/>
           <p>${bottle.description}</p>
           <p>${bottle.prix}</p>
     </div>
-    <div class="col-12 col-md-6">
+    <div class="col-12 col-md-4">
           <img src="${bottle.pub}" class="w-100" />
     </div>
   `;

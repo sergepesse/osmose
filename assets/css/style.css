@@ -21,11 +21,11 @@
 /* Contenu */
 
     .titre {
-        padding-top: 40px;
+        padding-top: 45px;
     }
 
-    p {
-        padding-bottom: 45px;
+    #produit {
+        padding-bottom: 45px; 
     }
 
 /* /Contenu */
