@@ -17,6 +17,7 @@ async function displayBottle() {
 }
 
 
+/* Fonction : insert du code html dans la page, en cherchant les infos du fichier json */
 
 function createBottleDetail(bottle) {
   return `

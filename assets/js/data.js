@@ -1,3 +1,6 @@
+
+/* Fonction : va chercher le fichier json et charge ses données */
+
 export async function getBottles() {
   const url = "./data/bottles.json";
   try {
@@ -12,6 +15,9 @@ export async function getBottles() {
     console.error(error.message);
   }
 }
+
+
+/* Fonction : parcours la liste des éléments dans le fichier json, et vérifie si c'est bien le même id (sinon, envoie un message d'erreur) */
 
 export async function getBottleById(id) {
   const url = "./data/bottles.json";

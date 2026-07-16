@@ -2,6 +2,8 @@ import { getBottles } from "./data.js";
 
 const bottlesContainer = document.querySelector("#liens");
 
+/* Fonction : retourne du code html */
+
 function createBottleCard(bottle) {
   return `
     <div class="bottle-card d-flex flex-column align-items-center my-4">
@@ -11,6 +13,9 @@ function createBottleCard(bottle) {
     </div>
   `;
 }
+
+
+/* Fonction : insert dans la page le code html qui est dans la fonction "createBottleCard" (au dessus) */
 
 async function displayBottles() {
   try {
@@ -22,6 +27,9 @@ async function displayBottles() {
 }
 
 displayBottles();
+
+
+/* Commande qui va parcourir les listes et insérer un lien au bouteilles lorsque qu'elle "entend" une action (ici, un click) */
 
 document.addEventListener("click", (event) => {
   if (event.target.classList.contains("btn-bottle")) {
